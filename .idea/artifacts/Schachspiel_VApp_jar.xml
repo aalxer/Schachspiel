@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Schachspiel_VApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Schachspiel_VApp_jar</output-path>
+    <root id="archive" name="Schachspiel_VApp.jar">
+      <element id="module-output" name="Schachspiel_VApp" />
+    </root>
+  </artifact>
+</component>
